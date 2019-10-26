@@ -1,0 +1,24 @@
+{
+  "name": "Telegraf",
+  "version": "0.2.15",
+  "slug": "hassio_telegraf",
+  "description" : "An addon to add telegraf to hassio",
+  "arch": ["armhf", "armv7", "aarch64", "amd64", "i386"],
+  "startup": "before",
+  "boot": "auto",
+  "options": {
+    "influxDB" : "http://a0d7b954-influxdb:8086",
+    "influx_db" : "telegraf",
+    "influx_user" : "telegraf",
+    "influx_pw" : "telegraf",
+    "retention_policy" : "day"
+  },
+  "schema": {
+    "influxDB" : "str",
+    "influx_db" : "str",
+    "retention_policy" : "str",
+    "influx_user" : "str",
+    "influx_pw" : "str"
+  },
+  "ports" : {}
+}
