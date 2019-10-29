@@ -33,7 +33,7 @@ influx_pw
 This is the password to coinside with the username
 
 ```bash
-retentiomn_policy
+retention_policy
 ```
 
 This is the retention policy to use (again you may need to specify this when setting up the db)
