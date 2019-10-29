@@ -57,3 +57,16 @@ This allows you to monitor your docker containers, *PLEASE NOTE: IN ORDER TO DO 
 
 ~~For some reason at the moment i have figured out how to communicate with the docker.sock therefore i cannot get the process' for docker contaisners. I will look into this and fix it when i can, if you have any idea please submit a PR~~
 
+# TO-DO
+
+~~Add dev branch~~
+
+Add images to installation steps
+
+Add PR Template
+
+Add Issue Template
+
+Configure more options to edit for the inputs
+
+Configure different outputs (so it doesn't have to be influxDB dependant, would appreciate it if people could reccomend ones they would find useful.)
