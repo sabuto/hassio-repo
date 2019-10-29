@@ -65,7 +65,7 @@ Add images to installation steps
 
 Add PR Template
 
-Add Issue Template
+~~Add Issue Template~~
 
 Configure more options to edit for the inputs
 
