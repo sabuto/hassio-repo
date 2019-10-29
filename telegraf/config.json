@@ -1,6 +1,6 @@
 {
   "name": "Telegraf",
-  "version": "0.2.16",
+  "version": "0.2.17",
   "slug": "hassio_telegraf",
   "description" : "An addon to add telegraf to hassio",
   "arch": ["armhf", "armv7", "aarch64", "amd64", "i386"],
