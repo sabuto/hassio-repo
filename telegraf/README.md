@@ -42,7 +42,7 @@ This is the retention policy to use (again you may need to specify this when set
 monitor_docker
 ```
 
-This allows you to monitor your docker containers, #PLEASE NOTE: IN ORDER TO DO THIS YOU MUST TURN OFF PROTECTION MODE
+This allows you to monitor your docker containers, *PLEASE NOTE: IN ORDER TO DO THIS YOU MUST TURN OFF PROTECTION MODE*
 
 
 # Known issues
