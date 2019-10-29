@@ -1,5 +1,8 @@
 # All Changes will be posted here
 
+## 0.2.18 - 29/10/2019
+- Added defualt sensors measurements (temperatures)
+
 ## 0.2.17 - 29/10/2019
 - Added todo
 - Added changelog
