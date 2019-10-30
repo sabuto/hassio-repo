@@ -31,5 +31,6 @@
     "influx_pw" : "str",
     "monitor_docker" : "bool"
   },
-  "ports" : {}
+  "ports" : {},
+  "image" : "sabuto/{arch}-hassio-telegraf"
 }
