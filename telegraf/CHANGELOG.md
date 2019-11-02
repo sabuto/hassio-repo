@@ -1,5 +1,9 @@
 # All Changes will be posted here
 
+## 0.2.20 - 02/11/2019
+- Updated base images
+- Fixed breaks
+
 ## 0.2.18 - 29/10/2019
 - Added defualt sensors measurements (temperatures)
 
