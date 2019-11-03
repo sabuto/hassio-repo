@@ -47,11 +47,22 @@ retention_policy
 This is the retention policy to use (again you may need to specify this when setting up the db)
 
 ```bash
-monitor_docker
+docker : {
+  enabled: false
+  timeout: 5s
+}
 ```
 
-This allows you to monitor your docker containers, *PLEASE NOTE: IN ORDER TO DO THIS YOU MUST TURN OFF PROTECTION MODE*
+This allows you to monitor your docker containers, the timeout allows you to specify how long it should try before connection is dropped *PLEASE NOTE: IN ORDER TO DO THIS YOU MUST TURN OFF PROTECTION MODE*
 
+
+```bash
+hdd_temp : {
+  enabled: false
+  disks: "#"
+```
+
+This allows you to monitor the temperature of the hard drives, disks currently isn't supported I will add this in a later version
 
 # Known issues
 
