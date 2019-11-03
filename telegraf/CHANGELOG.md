@@ -3,7 +3,7 @@
 ## 0.3.0 - 03/11/2019
 - Bumped telegraf Version to 1.12.4 (why it is 0.3.0 release)
 - added support for hdd_temp
-- changed formatting of config.jso (also why 0.3.0)
+- changed formatting of config.json (also why 0.3.0)
 
 ## 0.2.20 - 02/11/2019
 - Updated base images
