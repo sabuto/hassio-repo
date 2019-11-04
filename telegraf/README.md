@@ -57,12 +57,13 @@ This allows you to monitor your docker containers, the timeout allows you to spe
 
 
 ```bash
-hdd_temp : {
+smart_monitor : {
   enabled: false
-  disks: "#"
+  timeout : "30s"
+}
 ```
 
-This allows you to monitor the temperature of the hard drives, disks currently isn't supported I will add this in a later version
+This allows you to monitor the temperature of the hard drives
 
 # Known issues
 

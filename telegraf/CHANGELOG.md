@@ -1,5 +1,8 @@
 # All Changes will be posted here
 
+## 0.3.1 - 04/11/2019
+- Replaces hdd_temp for smart monitoring
+
 ## 0.3.0 - 03/11/2019
 - Bumped telegraf Version to 1.12.4 (why it is 0.3.0 release)
 - added support for hdd_temp
