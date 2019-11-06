@@ -1,5 +1,8 @@
 # All Changes will be posted here
 
+## 0.4.0 - 06/11/2019
+-Changed Dockerfile to ubuntu to fix not installing on different Arch's
+
 ## 0.3.1 - 04/11/2019
 - Replaces hdd_temp for smart monitoring
 
