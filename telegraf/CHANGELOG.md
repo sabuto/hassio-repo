@@ -1,5 +1,9 @@
 # All Changes will be posted here
 
+## 0.4.1 - 08/11/2019
+- Added more config variables
+- [See full changelog](https://github.com/Sabuto/hassio-telegraf/releases/tag/0.4.1)
+
 ## 0.4.0 - 06/11/2019
 -Changed Dockerfile to ubuntu to fix not installing on different Arch's
 
