@@ -1,5 +1,9 @@
 # All Changes will be posted here
 
+## 0.4.2 - 13/11/2019
+- Added ipmi to the config as requested in the forums
+- [See full changelog](https://github.com/Sabuto/hassio-telegraf/releases/tag/0.4.2)
+
 ## 0.4.1 - 08/11/2019
 - Added more config variables
 - [See full changelog](https://github.com/Sabuto/hassio-telegraf/releases/tag/0.4.1)
