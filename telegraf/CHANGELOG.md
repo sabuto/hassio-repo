@@ -1,5 +1,10 @@
 # All Changes will be posted here
 
+## 0.4.3 - 20/11/2019
+- Updated bug with ipmi sensors
+- made username, password and retention_policy optional as requested
+- [See full changelog](https://github.com/Sabuto/hassio-telegraf/releases/tag/0.4.3)
+
 ## 0.4.2 - 13/11/2019
 - Added ipmi to the config as requested in the forums
 - [See full changelog](https://github.com/Sabuto/hassio-telegraf/releases/tag/0.4.2)

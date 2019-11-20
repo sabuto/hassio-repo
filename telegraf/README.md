@@ -58,19 +58,19 @@ This is the database within influxDB to use (you may need to create this)
 influx_user
 ```
 
-This is the username telegraf will use to communicate with InfluxDB
+This is the username telegraf will use to communicate with InfluxDB - This setting is now optional
 
 ```bash
 influx_pw
 ```
 
-This is the password to coinside with the username
+This is the password to coinside with the username - This setting is now optional
 
 ```bash
 retention_policy
 ```
 
-This is the retention policy to use (again you may need to specify this when setting up the db)
+This is the retention policy to use (again you may need to specify this when setting up the db) - This setting is now optional
 
 ```json
 kernel : {
