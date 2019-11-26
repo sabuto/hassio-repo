@@ -1,10 +1,10 @@
 {
   "name": "Jackett",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "slug": "hassio_jackett",
   "description" : "An addon to add jackett to hassio",
   "url" : "https://github.com/Sabuto/hassio-jackett",
-  "arch": ["aarch64", "amd64"],
+  "arch": ["armv7", "aarch64", "amd64"],
   "startup": "before",
   "boot": "auto",
   "webui": "http://[HOST]:[PORT:9118]",
