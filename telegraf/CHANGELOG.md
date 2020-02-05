@@ -1,4 +1,9 @@
 # All Changes will be posted here
+## 0.5.0 - 05/02/2020
+- chore: Updated the config
+- chore: move to GitHub workflow (#19) @Sabuto
+- feature: added support for influxDBv2 (#18) @Sabuto
+-[See full Changelog](https://github.com/Sabuto/hassio-telegraf/releases/tag/0.5.0)
 
 ## 0.4.3 - 20/11/2019
 - Updated bug with ipmi sensors
