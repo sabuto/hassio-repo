@@ -1,6 +1,6 @@
 {
   "name": "Telegraf",
-  "version": "0.5.0",
+  "version": "0.5.1",
   "slug": "hassio_telegraf",
   "description" : "An addon to add telegraf to hassio.",
   "url" : "https://github.com/Sabuto/hassio-telegraf",
@@ -31,6 +31,9 @@
     "docker" : {
       "enabled" : false,
       "timeout" : "5s"
+    },
+    "thermal" : {
+      "enabled" : false
     },
     "smart_monitor" : {
       "enabled" : false,
@@ -72,6 +75,9 @@
     "docker" : {
       "enabled" : "bool",
       "timeout" : "str"
+    },
+    "thermal" : {
+      "enabled" : "bool"
     },
     "smart_monitor" : {
       "enabled" : "bool",
