@@ -1,5 +1,9 @@
 # All Changes will be posted here
 
+## 0.5.2 - 20/02/2020
+- feature: added thhe ability to use a custom config.
+-[See full Changelog](https://github.com/Sabuto/hassio-telegraf/releases/tag/0.5.2)
+
 ## 0.5.1 - 11/02/2020
 - feature: add support for scrapping thermal subsystem
 - enhancement: install smartmontools from backports repository
