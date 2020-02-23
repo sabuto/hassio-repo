@@ -1,6 +1,9 @@
 # All Changes will be posted here
 
 ## 0.5.3 - 23/02/2020
+- forgot to update ver in config
+
+## 0.5.3 - 23/02/2020
 - chore: update custom config to copy instead of moving
 -[See full Changelog](https://github.com/Sabuto/hassio-telegraf/releases/tag/0.5.3)
 
