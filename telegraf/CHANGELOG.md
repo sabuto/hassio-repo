@@ -1,5 +1,10 @@
 # All Changes will be posted here
 
+## 0.5.6 - 18/01/2021
+* Enable prometheus exporter output for telegraf (#32) @fliphess
+* Update telegraf to 1.17.0 (#31) @fliphess
+* Version skipped because of ocnfig mess up
+
 ## 0.5.4 - 23/02/2020
 - forgot to update ver in config
 
