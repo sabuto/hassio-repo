@@ -1,6 +1,6 @@
 {
   "name": "Telegraf",
-  "version": "0.5.4",
+  "version": "0.5.6",
   "slug": "hassio_telegraf",
   "description" : "An addon to add telegraf to hassio.",
   "url" : "https://github.com/Sabuto/hassio-telegraf",
@@ -59,6 +59,10 @@
       "organization": "",
       "token": "",
       "bucket": ""
+    },
+    "prometheus": {
+      "enabled": false,
+      "metrics_path": "/metrics"
     }
   },
   "schema": {
@@ -107,8 +111,14 @@
       "organization": "str",
       "token": "str",
       "bucket": "str"
+    },
+    "prometheus": {
+      "enabled": "bool",
+      "metrics_path": "str"
     }
   },
-  "ports" : {},
+  "ports" : {
+    "9273/tcp": 9273
+  },
   "image" : "sabuto/{arch}-hassio-telegraf"
 }
