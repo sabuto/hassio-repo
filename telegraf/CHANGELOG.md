@@ -1,5 +1,9 @@
 # All Changes will be posted here
 
+## 0.6.0 - 17/06/2021
+* Update and fix that happened in 0.5.7
+* Changed to a s6 container - specifically homeassistant community addons base
+
 ## 0.5.6 - 18/01/2021
 * Enable prometheus exporter output for telegraf (#32) @fliphess
 * Update telegraf to 1.17.0 (#31) @fliphess
