@@ -5,7 +5,7 @@
   "description" : "An addon to add jackett to hassio",
   "url" : "https://github.com/Sabuto/hassio-jackett",
   "arch": ["armv7", "aarch64", "amd64"],
-  "startup": "before",
+  "startup": "application",
   "boot": "auto",
   "webui": "http://[HOST]:[PORT:9118]",
   "map": [
