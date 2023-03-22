@@ -1,5 +1,10 @@
 # All Changes will be posted here
 
+## 1.0.0 - 22/03/2023
+- Rewrote things to be better
+- Fixed a lot of issues
+- updated telegraf to 1.26.0
+
 ## 0.6.0 - 17/06/2021
 * Update and fix that happened in 0.5.7
 * Changed to a s6 container - specifically homeassistant community addons base
