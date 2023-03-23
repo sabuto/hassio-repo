@@ -39,8 +39,10 @@
     "hostname": "test",
     "influxDB": {
       "enabled": true,
-      "url": "http://a0d7b954-influxdb:8086",
+      "url": "http://0.0.0.0:8086",
       "db": "telegraf"
+      username:''
+      password:''
     },
     "kernel": {
       "enabled": true
